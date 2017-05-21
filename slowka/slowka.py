@@ -1,6 +1,10 @@
 #!/usr/bin/python
 import sys
 
+if len(sys.argv) == 1:
+    print("usage: ./slowka.py FILENAME")
+    quit()
+
 words = []
 
 with open(sys.argv[1], 'r') as f:

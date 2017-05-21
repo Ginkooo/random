@@ -8,7 +8,7 @@ promotion opportunities:możliwości awansu
 assessment:oszacowanie
 breakdown:załamanie
 empowerment:upoważnienie
-fringe benefits:dodatkowe kożyści
+fringe benefits:dodatkowe korzyści
 red tape:biurokracja
 remuneration:wynagrodzenie
 severance payment:odprawa
@@ -45,3 +45,4 @@ medical insurance:ubezpieczenie zdrowotne
 childcate vouchers:kupony na dzieci
 basic holiday:urlop podstawowy
 role model:model wzorcowy
+cold-calling:akwizycja przez telefon
