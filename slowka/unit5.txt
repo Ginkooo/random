@@ -1,0 +1,47 @@
+bonus:premia
+bigger salary:większa pensja
+commision:prowizja
+praise:pochwała
+threat of redundancy:zagrożenie redukcją
+perks:bonusy
+promotion opportunities:możliwości awansu
+assessment:oszacowanie
+breakdown:załamanie
+empowerment:upoważnienie
+fringe benefits:dodatkowe kożyści
+red tape:biurokracja
+remuneration:wynagrodzenie
+severance payment:odprawa
+take industrial action:zrobić strajk
+golden handshake:hojna odprawa
+appraisal interview:zapoznawcza rozmowa
+compensation package:pakiet wyrównawczy/wynagrodzenie plus dodatki
+burnout:wypalenie zawodowe
+satisfty:satysfakcjonować
+motivate:motywować
+frustrate:frustrować
+recognise:docenić/rozpoznać
+wherher:czy
+annual sales:roczny zbyt
+staff members:członkowie kadry
+staff turnover:strata kadry/odejście kadry
+treatment:leczenie/kuracja/traktowanie
+award:przyznawać
+contribution:wkład/udział
+employ:zatrudniać
+competency:zdolność do czynności prawnych
+appreciation:uznanie
+respectively:odpowiednio/uszanowanie
+paternity:ojcostwo
+poverty:ubóstwo
+juggle:żąglować
+secondment:oddelegowanie
+empowered:władny/upoważniony
+encompass:ujać/zająć/otoczyć
+encouraging:zachęcający
+emerging:powstający
+pension scheme:system emerytalny
+medical insurance:ubezpieczenie zdrowotne
+childcate vouchers:kupony na dzieci
+basic holiday:urlop podstawowy
+role model:model wzorcowy
