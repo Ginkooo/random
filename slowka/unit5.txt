@@ -17,11 +17,11 @@ golden handshake:hojna odprawa
 appraisal interview:zapoznawcza rozmowa
 compensation package:pakiet wyrównawczy/wynagrodzenie plus dodatki
 burnout:wypalenie zawodowe
-satisfty:satysfakcjonować
+satisfy:satysfakcjonować
 motivate:motywować
 frustrate:frustrować
 recognise:docenić/rozpoznać
-wherher:czy
+whether:czy
 annual sales:roczny zbyt
 staff members:członkowie kadry
 staff turnover:strata kadry/odejście kadry

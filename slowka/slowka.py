@@ -20,5 +20,5 @@ while True:
         word = pl if to_guess is en else pl
         answer = input(word + ': ')
         if answer in to_guess:
-            print('Correct!')
+            print('Correct! - ', end='')
         print(to_guess)
