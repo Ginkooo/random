@@ -1,0 +1,38 @@
+cieniowanie płaskie:tworzy jednolity kolor dla całej powierzchni wielokąta siatki
+wadą algorytmu malarza jest:niemożlość prawidłowego narysowanie wzajemnie nachodzących na siebie ścian
+model oświetlennia Phonga:uwzględnia oświetlenie ambitne, dosperder i specu lat
+metoda modelowanie z wielokątów jest popularna ze względu na:łatwość maszynowego przetwarzania
+w algorytmie Ray Trace Promieć światła:jest śledzony od obserwatora do źródła światła
+bryłę widzenia określa:punkt ogniskowy i bliit
+obraz wektorowy jest zbudowany z:prymitywnych obiektów
+wykonując rozjaśnienie obrazu:dodajemy tą samą liczbę do wartości wszystkich punktów obrazu
+interpolacja polega na:wyznaczeniu kolorów nowych pikseli na podstawie sąsiednich pikseli
+tabela lut zawiera:zestawienie wszystkich wartości jasości ich odpowiedników po przetworzeniu
+algorytm jpeg bazuje na:zamianie rozkładu przestrzennego jaskrawości na rozkład częstotliwości
+najważniejszą wadą przeźroczystości stosowanej w formacie gif jest:występowanie efektu halo na krawędziach obiektów
+jaką głębię bitową ma obraz typu bitmapa:24
+rodzina filtrów krawędziowych so?? może wykrywać krawędzie:pionwe, poziome i ukośne
+odbicie zwierciadła zakłada: 100% odbicie tylko pod kątem=kątowi padanie ściatła
+voxle są najczęściek wykorzystywane w grach:do modelowania odkształceń i efektów zniszczeń
+ile barw można zapisać stosując 8 bitową głębię kolorów:256
+filtr gaussa jest filtrem uśredniającym:przywiązującum większą wagę do pierwotnej wartości piksela
+gęstość matrycy aparatu cyfrowego jest miarą:dokładności urządzenia rejestrującego
+wadą klasycznego ray-tracingu jest:zbyt duża ilość analiz promieni na piksel
+uzyskanie nowych barw za pomocą mieszania pikseli kilku innych barw określamy jako:oithering
+przekształcenie kontekstowe określają wartość piksela na podstawie:analizy pikseli otaczających bieżący piksel
+wertes:jest określiny zawsze tylko 3 współrzędnymi
+odpowiednikiem piksela w trójwymiarze jest:teksel
+format tiff pozwala na stosowanie kompresji bezstratnej:bezstratnej lzw
+obrót obrazu o 180 st. polega na:odwróceniu kolejności punktów w wierszach a następnie odwróceniu kolejności wierszy
+indeksowany zapis pikseli jest stosowany w plikach formatu:gif
+kompresja w formacie gif jest kompresją:bezstratną szukającą obszarów o jednakowym kolorze
+cieniowanie gourauda:rozmywa krawędzie obiektu
+do akceleracji algorytmów ray-tracing stosuje się:drzewa ósemkowe
+rozciągnięcie histogramu polega na:rozstawieniu słupków histogramu tak aby zajmowały cały dostępny zakres
+filtr medianowy oblicza nową wartość piksela jako:równą wartość z sąsiedztwa najbliższej średniej
+światło typu ambient:oświetla jednakowo wszystkie obiekty
+wykorzystyjąc narzędzie krzywe do zmniejszania kontrastu:przechylamy krzywą w dół względem środka prostokąta
+nie istnieje rzutowanie perspektywiczne:rozbieżne
+znając wartości ppi obrazu możemy określić:jego rozdzielczość
+przeźroczystość w formacie ??? jest zapisywana za pomocą:kanału alfa
+przekształcenie bezkontekstowe nie polega na:zmianie położeni punktów w obrazie

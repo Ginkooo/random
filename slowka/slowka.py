@@ -17,7 +17,7 @@ x = input('pl->en(1) or en->pl(2)? ')
 while True:
     for en, pl in words:
         to_guess = en if x == '1' else pl
-        word = pl if to_guess is en else pl
+        word = pl if x=='1' else en
         answer = input(word + ': ')
         if answer in to_guess:
             print('Correct! - ', end='')
