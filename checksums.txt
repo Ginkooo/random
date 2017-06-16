@@ -1,0 +1,4 @@
+checksum.py:edc0b53a7c37dd7e77cad51ceb3f4188
+checksums.txt:f93ae6dd63bb40b57261057e88d78322
+.checksum.py.swp:1eb7fa967304d14f73b7064d938060c8
+.gitignore:270fc7f7c4282368454adcde4c093638

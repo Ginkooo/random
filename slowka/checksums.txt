@@ -1,0 +1,7 @@
+unit4.lsd:8c9f9a457b5ba1eebba680582643384f
+slowka.py:00c3014a044b497f680a62c8ac095151
+unit4.txt:d41d8cd98f00b204e9800998ecf8427e
+unit5.txt:e9a4c52eaa20d3f0efee12fb805a1473
+.slowka.py.swp:e9c2742df0a32121ff7598ceb062f219
+grafika.thc:46cad82ecb588fe532db66e072fd5f7e
+.unit5.txt.swp:b91af70dd61cd63787b73dbdf91226a8
