@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 scrot -s /tmp/screen.png
 xclip -selection clipboard -t image/png -i /tmp/screen.png
