@@ -1,0 +1,56 @@
+motivator:motywator
+mediator:medytujący
+leader:lider
+problem-solver:rozwiązywacz problemów
+monitor:kontroler
+decision-maker:podejmujący decyzje
+friend:przyjaciel
+organiser:organizator
+role model:wzór do naśladowania
+the loyality of staff:lojalność zespołu
+achievement of results:osiągnięcie wyników
+popularity with their superiors:popularność wśród przełożonych
+considerate:taktowny
+competent:kompetentny
+creative:kreatywny
+efficient:efektywny
+flexible:elastyczny
+inspiring:inspirujący
+logical:logiczny
+loyal:lojalny
+organised:zoorganizowany
+decisive:decydujący
+responsible:odpowiedzialny
+sociable:towarzyski
+supportive:wspierający
+autocratic:autokratyczny
+centralising:centralizacja
+directive:dyrektywa
+empowering:wzmacjanie
+hands-on:zorientowany na praktykę
+task-orientated:zorientowany na zadanie
+collaborative:współpracujący
+controlling:kontrolujący
+delegating:delegowanie
+democratic:demokratyczny
+people-orientated:zorientowany na ludzi
+laissez-faire:polityka wolnej ręki w handlu
+approachable:przystępny
+demanding:wymagające
+perfectionist:perfekcjonista
+ruthless:bezwzględny
+volatile:lotny
+dispel:rozwiać
+belief:przekonanie
+loathing:odraza
+blurb:reklama wydawnicza
+competitive:konkurencyjny
+intimidating:zastraszające
+intentional:zamierzony
+emphasising:podkreślający
+top-of-the-range:górnej części zakresu
+distinctive:charakterystyczny
+appearance:wygląd
+consisting:składający się
+goal-setting:ustalanie celów
+giving feedback:udzielanie opinii

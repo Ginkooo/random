@@ -10,8 +10,13 @@ def main():
     words = []
 
     with codecs.open(sys.argv[1], 'r', 'utf-8') as f:
+        i = 0
         for line in f:
-            en, pl = line.split(':')
+            i += 1
+            try:
+                en, pl = line.split(':')
+            except ValueError:
+                raise ValueError(f'Cannot split line {i}')
             words.append((en.strip(), pl.strip()))
 
     x = input('pl->en(1) or en->pl(2)? ')
@@ -24,7 +29,7 @@ def main():
                     answer = input(word + ': ')
                 except UnicodeError:
                     answer = input(word.encode('ascii', 'replace').decode('ascii') + ': ')
-                if answer in to_guess:
+                if answer == to_guess:
                     print('Correct! - ', end='')
                 try:
                     print(to_guess)
