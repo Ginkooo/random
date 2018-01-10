@@ -1,0 +1,19 @@
+#!/bin/bash
+
+freeSpace=$(df /dev/sdb1 | awk 'FNR == 2 {print}' | awk '{print $4}')
+minAvalSpace=30000 #Wartosc w kilobajtach
+
+#usuwaj dopoki nie bedzie wystarczajaco duzo wolnego miejsca
+echo "Usuwanie beckupow. Usunieto:"
+while [ $freeSpace -lt $minAvalSpace ] 
+do
+       oldest=$(ls -t1 /mnt/archiwum | tail -n 1)
+       echo $oldest
+       rm -rf /mnt/archiwum/$oldest
+
+done
+
+newBeckupName=$(date '+%y-%m-%d_%H-%M-%S')
+newBeckupDir="/mnt/archiwum/archiwum_"$newBeckupName
+mkdir $newBeckupDir
+rsync -aq0 /home/student/ $newBeckupDir
